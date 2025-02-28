@@ -1,13 +1,13 @@
 # RJ3
-Exercicio de Gestão de Empresa e Clientes
+# Exercicio de Gestão de Empresa e Clientes
 
 Este projeto implementa um sistema de gestão de empresas e clientes utilizando a linguagem JavaScript. O sistema permite cadastrar empresas, clientes, endereços e telefones, garantindo a privacidade de dados sensíveis como CPF e CNPJ.
 
-🛠 Tecnologias Utilizadas
+## 🛠 Tecnologias Utilizadas
 
 JavaScript (ES6+)
 
-📌 Funcionalidades
+## 📌 Funcionalidades
 
 Criar e gerenciar objetos de Empresa, Cliente, Telefone e Endereço.
 
@@ -23,7 +23,7 @@ Métodos para exibição de texto em maiúsculas e minúsculas.
 
 Geração de uma descrição completa da empresa e seus clientes.
 
-📂 Estrutura do Código
+## 📂 Estrutura do Código
 
 Cliente: Representa uma pessoa com CPF privado, endereço e telefones.
 
@@ -33,7 +33,7 @@ Endereço: Contém informações como estado, cidade, rua e número.
 
 Empresa: Possui um CNPJ privado, lista de clientes, telefones e um endereço.
 
-📄 Licença
+## 📄 Licença
 
 Este projeto foi desenvolvido para fins educativos e pode ser modificado conforme necessário.
 
